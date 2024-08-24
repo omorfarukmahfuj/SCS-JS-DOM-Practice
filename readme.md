@@ -10,3 +10,4 @@
 
 5. Build a countdown timer that starts when a button is clicked and update the display in real-time.
 
+6. Create a tabbed interface while clicking on tabs displays different content sections without page reload.

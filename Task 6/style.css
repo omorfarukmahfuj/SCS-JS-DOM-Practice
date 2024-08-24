@@ -1,0 +1,24 @@
+body {
+  padding: 20px;
+  font-family: "Gilroy";
+  font-weight: 700;
+}
+
+#tabs {
+  display: flex;
+  gap: 20px;
+}
+
+.tab {
+  padding: 12px 22px;
+  background-color: #e9e9e9;
+  border: 2px solid #dadada;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+h3 {
+  margin-top: 20px;
+  width: 50%;
+  display: none;
+}
