@@ -13,3 +13,5 @@
 6. Create a tabbed interface while clicking on tabs displays different content sections without page reload.
 
 7. Display a progress bar that updates in real-time, showing the progress of a task, download, or form submission.
+
+8. Create a search bar that displays live search results as users type, updating the results without requiring a full page reload.
