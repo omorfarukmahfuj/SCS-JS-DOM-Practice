@@ -1,0 +1,15 @@
+body {
+  font-family: "gilroy";
+  padding: 30px;
+}
+
+textarea {
+  width: 400px;
+  height: 130px;
+  font-size: 18px;
+  font-weight: 500;
+  border: 1px solid #dadada;
+  outline: royalblue;
+  resize: none;
+  padding: 10px;
+}
